@@ -1,0 +1,86 @@
+{
+  "exported_at": "2026-05-17T21:12:49.091Z",
+  "total": 10,
+  "keys": [
+    {
+      "key": "WZJME-7NP78-WRLFL-SUZ8K",
+      "label": "ntzgroup #1",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "UMYC7-KEBGH-P7RNC-VJFXF",
+      "label": "ntzgroup #2",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "6CY7G-WRUBT-8UQH4-KMEKC",
+      "label": "ntzgroup #3",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "785MZ-P2PK2-8QL3N-78ZD4",
+      "label": "ntzgroup #4",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "9EAPN-YQ28U-PM5ER-TE3FJ",
+      "label": "ntzgroup #5",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "RJRKN-HXVEG-W8DN7-UN8PD",
+      "label": "ntzgroup #6",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "U85D4-YZWR4-M2S39-XTHHW",
+      "label": "ntzgroup #7",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "AX5F6-94R56-3GLVV-72TUF",
+      "label": "ntzgroup #8",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "BBPG4-K5T9S-DXVLC-A8U83",
+      "label": "ntzgroup #9",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    },
+    {
+      "key": "258NF-X6Z6R-LVT9Q-L45P7",
+      "label": "ntzgroup #10",
+      "status": "active",
+      "created_at": "2026-05-17T21:12:45.405Z",
+      "expires_at": "2026-05-24T21:12:45.405Z",
+      "duration_days": 7
+    }
+  ]
+}
