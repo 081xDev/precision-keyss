@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-05-17T21:12:49.091Z",
-  "total": 10,
+  "exported_at": "2026-05-17T22:37:57.807Z",
+  "total": 40,
   "keys": [
     {
       "key": "WZJME-7NP78-WRLFL-SUZ8K",
@@ -81,6 +81,246 @@
       "created_at": "2026-05-17T21:12:45.405Z",
       "expires_at": "2026-05-24T21:12:45.405Z",
       "duration_days": 7
+    },
+    {
+      "key": "8ZRJT-94G9B-HL334-B4MHS",
+      "label": "Ntzgroup #1",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "VBAJD-LAXQY-3XK2N-NPAV3",
+      "label": "Ntzgroup #2",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "DQRT5-VVYM4-TDJQW-B8863",
+      "label": "Ntzgroup #3",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "MP3N5-VF8JY-9H9EX-9TSES",
+      "label": "Ntzgroup #4",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "P7JV5-6F28T-58PS3-7PCHP",
+      "label": "Ntzgroup #5",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "YJZKM-8YV8U-3WBGR-DX3NG",
+      "label": "Ntzgroup #6",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "SD79H-P9ZN3-G5TAU-N4KYK",
+      "label": "Ntzgroup #7",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "ZSEN4-5KPNV-5Q9CE-5GZQW",
+      "label": "Ntzgroup #8",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "3TUTC-REPEY-VULZQ-44FUS",
+      "label": "Ntzgroup #9",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "9LB3S-YCYNE-FQQ92-ELRDE",
+      "label": "Ntzgroup #10",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:07.978Z",
+      "expires_at": "2026-06-16T22:37:07.978Z",
+      "duration_days": 30
+    },
+    {
+      "key": "EMMPF-DMKJP-PQ33Q-JLNZD",
+      "label": "Ntzgroup #1",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "7CZXJ-RJBF7-ZGD6F-XYES5",
+      "label": "Ntzgroup #2",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "JSNP6-ETAS9-TMUBU-RZP7R",
+      "label": "Ntzgroup #3",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "H8PY9-35UF9-C6DAJ-NKBCJ",
+      "label": "Ntzgroup #4",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "6EXZ7-DXKHB-9ESEE-WBV3B",
+      "label": "Ntzgroup #5",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "XR35F-5HVRP-TW4S8-QZELA",
+      "label": "Ntzgroup #6",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "KGPY8-M4ZPJ-M2YXW-UVWXF",
+      "label": "Ntzgroup #7",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "FU4BY-VJL26-8HTSG-8GNEQ",
+      "label": "Ntzgroup #8",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "FAVJV-5ELEV-T7UQ6-FNFU5",
+      "label": "Ntzgroup #9",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "P5MD5-RQZT6-3MDFZ-BGKMN",
+      "label": "Ntzgroup #10",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:16.318Z",
+      "expires_at": "2026-08-15T22:37:16.318Z",
+      "duration_days": 90
+    },
+    {
+      "key": "J9PNB-VC4HD-X9TTK-R544Z",
+      "label": "Ntzgroup #1",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "RNQ3K-FE6TJ-HA8PW-3V8U3",
+      "label": "Ntzgroup #2",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "2LTRL-G2YNF-4MGZS-WJ8EW",
+      "label": "Ntzgroup #3",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "YDV7G-QAWTC-6Y77W-WKY8R",
+      "label": "Ntzgroup #4",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "ZDLH4-ZZ59L-S6ZWR-ZNL6U",
+      "label": "Ntzgroup #5",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "2YC3J-SAZTT-F6ZSW-3M29K",
+      "label": "Ntzgroup #6",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "2ZWC6-GFX2U-ZUT83-DMH4V",
+      "label": "Ntzgroup #7",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "4GW3V-9A9BG-2CWAG-QXCSV",
+      "label": "Ntzgroup #8",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "75Y5K-YR5G4-RRAYF-D8DY2",
+      "label": "Ntzgroup #9",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
+    },
+    {
+      "key": "QMZN9-HUCWH-FDQQF-9PLBK",
+      "label": "Ntzgroup #10",
+      "status": "active",
+      "created_at": "2026-05-17T22:37:23.333Z",
+      "expires_at": null,
+      "duration_days": 0
     }
   ]
 }
